@@ -1,0 +1,24 @@
+h1{
+   margin-left: 150px;
+}
+.no {
+  margin-left: 150px;
+   border: 5px solid rgb(65, 63, 63);
+cursor: pointer;
+   background-color: rgb(40, 174, 226);
+   width: 20px;
+   border-radius: 5px;
+   padding: 5px;
+}
+.yes {
+   margin-left: 150px;
+   border: 5px solid rgb(65, 63, 63);
+   width: 20px;
+   background-color: rgb(40, 174, 226);
+  cursor: pointer;
+   border-radius: 5px;
+   padding: 5px;
+}
+.no:hover {
+ opacity: 0;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../kids talk/js"
+		},
+		{
+			"path": "../kids talk/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js angular"
+	}
+}
